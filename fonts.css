@@ -1,0 +1,12 @@
+/* Euclid Circular A — CDNFonts */
+@import url("https://fonts.cdnfonts.com/css/euclid-circular-a");
+
+/* Vox Round W01 Bold — OnlineWebFonts (CSS에서 쓰는 이름만 VoxRoundW01-Bold 로 통일) */
+@font-face {
+  font-family: "VoxRoundW01-Bold";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://db.onlinewebfonts.com/t/7e5a602c5767ff1d0e2393e7009c59ff.woff2") format("woff2"),
+    url("https://db.onlinewebfonts.com/t/7e5a602c5767ff1d0e2393e7009c59ff.woff") format("woff");
+}
